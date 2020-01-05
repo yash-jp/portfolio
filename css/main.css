@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.page-section {
+  padding: 6rem 0;
+}
+
+
+/* NAVBAR */
+nav{
+  background-color: #52688F;
+  color: #E3E7F1;
+}
+
+nav a{
+  color: #E3E7F1;
+}
+
+nav h2{
+  font-family: 'Dancing Script', cursive;
+}
+
+/* ABOUT */
+.about{
+  background-color: #52688F;
+  color: #E3E7F1;
+}
+
+.about img{
+  width: 15rem;
+}
+
+.about .intro{
+  padding: 10% 0;
+}
+
+/* TECH STACK */
+.tech-stack{
+  background-color: #BDC6D9;
+  color: #7391C8;
+}
+
+.tech-stack i{
+  font-size: 7rem;
+}
+
+/* PORTFOLIO */
+.portfolio{
+  background-color: #52688F;
+  color: #E3E7F1;
+}
+
+/* CONNECT */
+.connect{
+  background-color: #BDC6D9;
+  color: #7391C8;
+}
+
+/* FOOTER */
+footer{
+  background-color: #BDC6D9;
+  color: #7391C8;
+}
+
+footer i{
+  font-size: 2rem;
+}
